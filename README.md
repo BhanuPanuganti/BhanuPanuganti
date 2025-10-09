@@ -1,21 +1,13 @@
 # Hi there, I'm Bhanu 👋  
 
-🚀 **Data Science & ML Enthusiast | Problem Solver | Lifelong Learner**  
+🚀 **Data Science & ML Enthusiast | Problem Solver**  
 
 ---
 
 ## 🔥 About Me  
 - 🎯 Passionate about **Machine Learning, Deep Learning and Applied AI**  
 - 🧑‍💻 Currently exploring **Predictive Modeling, Computer Vision & Natural Language Processing**  
-- 🌱 Learning every day — from theory to hands-on projects  
-- 🎮 Fun fact: I once built a game in a weekend hackathon!  
----
-
-## 📌 Featured Projects  
-🔹 [Brain Tumor Classification](https://github.com/your-repo) – Built with **Improved Sparrow Search Algorithm** for feature extraction  
-🔹 [Bike Rental Demand Prediction](https://github.com/your-repo) – **XGBoost model** predicting rentals based on weather/time  
-🔹 [Bubble Brawl Game](https://github.com/your-repo) – Hackathon-built 3D action game  
-
+- 🌱 Learning every day — from theory to hands-on projects   
 ---
 
 ## 🌐 Connect with Me  
