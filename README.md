@@ -13,7 +13,7 @@
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhanu-panuganti-43a497284/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=google-chrome&logoColor=white)]([https://your-portfolio.com](https://bhanupanuganti.github.io/Bhanu-Portfolio-Main/))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=flat-square&logo=google-chrome&logoColor=white)](https://bhanupanuganti.github.io/Bhanu-Portfolio-Main/) 
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhanupanuganti.12@gmail.com)  
 
